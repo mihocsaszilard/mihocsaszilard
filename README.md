@@ -1,4 +1,4 @@
-![alt text](https://github.com/mihocsaszilard/mihocsaszilard/github-readme-image.png
+![alt text](https://github.com/mihocsaszilard/mihocsaszilard/blob/main/github-readme-image.png?raw=true)
 
 - 👋 Hi, I’m @mihocsaszilard
 - 👀 I’m interested in Web Development and design.
