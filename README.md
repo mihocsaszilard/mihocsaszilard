@@ -1,9 +1,10 @@
 ![alt text](https://github.com/mihocsaszilard/mihocsaszilard/blob/main/github-readme-image.png?raw=true)
 
-- 👋 Hi, I’m @mihocsaszilard
-- 👀 I’m interested in Web Development and design.
-- 🌱 I’m currently learning at CareerFoundry and searching for a supporting company.
+- 🌱 I’m currently learning at CareerFoundry and searching for new opportunities.
 - 💞️ I’m looking to collaborate with new people on new projects.
+
+- :test_tube: I have a background in development, not in web but in technological development in pharma industry.
+
 - 📫 How to reach me? Look: mihocsa48@gmail.com LinkedIn: https://www.linkedin.com/in/mihocsaszilard/
 
 <!---
