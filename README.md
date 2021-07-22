@@ -1,3 +1,5 @@
+![alt text](https://github.com/mihocsaszilard/mihocsaszilard/github-readme-image.png
+
 - 👋 Hi, I’m @mihocsaszilard
 - 👀 I’m interested in Web Development and design.
 - 🌱 I’m currently learning at CareerFoundry and searching for a supporting company.
