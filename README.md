@@ -1,4 +1,4 @@
-![alt text](https://github.com/mihocsaszilard/mihocsaszilard/blob/main/github-readme-image.png?raw=true)
+(https://github.com/mihocsaszilard/mihocsaszilard/blob/main/github-readme-image.png?raw=true)
 
 - 🌱 I’m currently learning full stack web development and searching for new opportunities.
 - 💞️ I’m looking to collaborate with new people on new projects.
