@@ -16,23 +16,23 @@
 [<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/mail.svg" />](mihocsa48@gmail.com)
 [<img align="left" alt="linkedin profile" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/linkedin.svg" />][linkedin]
 [<img align="left" alt="twitter profile" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/twitter.svg" />][twitter]
-[<img align="left" alt="portfolio website" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/website.svg" />][wensite]
+[<img align="left" alt="portfolio website" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/website.svg" />][website]
 
 ### Languages and Tools:
 
-<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/html.svg" />
-<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/css.svg" />
-<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/js.svg" />
-<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/sass.svg" />
-<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/bootstrap.svg" />
-<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/node.svg" />
-<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/react.svg" />
-<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/jest.svg" />
-<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/git.svg" />
-<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/mongodb.svg" />
-<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/aws.svg" />
-<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/npm.svg" />
-<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/vscode.svg" />
+<img align="center" alt="html" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/html.svg" />
+<img align="center" alt="css" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/css.svg" />
+<img align="center" alt="javascript" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/js.svg" />
+<img align="center" alt="sass" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/sass.svg" />
+<img align="center" alt="bootstrap" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/bootstrap.svg" />
+<img align="center" alt="node js" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/node.svg" />
+<img align="center" alt="react" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/react.svg" />
+<img align="center" alt="jest" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/jest.svg" />
+<img align="center" alt="git" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/git.svg" />
+<img align="center" alt="mongo db" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/mongodb.svg" />
+<img align="center" alt="amazon web services" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/aws.svg" />
+<img align="center" alt="npm package manager" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/npm.svg" />
+<img align="center" alt="visual studio code" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/vscode.svg" />
 
 ---
 
