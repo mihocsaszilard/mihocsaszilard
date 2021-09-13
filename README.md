@@ -11,9 +11,9 @@
 - :test_tube: I have a background in development, not in web but in technological development in pharma industry.
 - 💯 Fun fact: I love to ride my motorcycle and build lego.
 
-<h3>📫 Connect with me:</h3>
-
 <div align="center">
+
+<h3>📫 Connect with me:</h3>
 
 [<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/mail.svg" />](mihocsa48@gmail.com)
 [<img align="left" alt="linkedin profile" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/linkedin.svg" />][linkedin]
