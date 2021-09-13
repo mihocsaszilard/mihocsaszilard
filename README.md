@@ -10,7 +10,7 @@
 - :test_tube: I have a background in development, not in web but in technological development in pharma industry.
 - 💯 Fun fact: I love to ride my motorcycle and build lego.
 
-- 📫 Connect with me: [Gmail](mihocsa48@gmail.com) / [<img align="left" alt="linkedin profile" width="22px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/linkedin.svg?raw=true" />](https://www.linkedin.com/in/mihocsaszilard/) / [Twitter](https://twitter.com/MihocsaS)
+- 📫 Connect with me: [Gmail](mihocsa48@gmail.com) / [<img align="left" alt="linkedin profile" width="22px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/linkedin.svg" />](https://www.linkedin.com/in/mihocsaszilard/) / [Twitter](https://twitter.com/MihocsaS)
 
 <!---
 mihocsaszilard/mihocsaszilard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
