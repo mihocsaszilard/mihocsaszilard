@@ -39,7 +39,7 @@
   <img align="left" alt="npm package manager" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/assets/npm.svg" />
   <img align="left" alt="visual studio code" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/assets/vscode.svg" />
 <br>
-<h3 align="left">Stats:</h3>
+<h3></h3>
 
 <div align="center">
 
