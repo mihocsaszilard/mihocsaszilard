@@ -24,7 +24,7 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 style="text-align:center">Languages and Tools:</h3>
 
 <div align="center">
   <img align="left" alt="html" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/html.svg" />
@@ -42,7 +42,7 @@
   <img align="left" alt="visual studio code" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/vscode.svg" />
 </div>
 
-### Stats
+<h3 align="left">Stats:</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihocsaszilard&hide=stars,contribs&show_icons=true&theme=dark&hide_border)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihocsaszilard&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
