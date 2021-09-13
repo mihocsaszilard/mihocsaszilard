@@ -15,29 +15,29 @@
 
 <h3>📫 Connect with me:</h3>
 
-[<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/mail.svg" />](mihocsa48@gmail.com)
-[<img align="left" alt="linkedin profile" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/linkedin.svg" />][linkedin]
-[<img align="left" alt="twitter profile" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/twitter.svg" />][twitter]
-[<img align="left" alt="portfolio website" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/website.svg" />][website]
+[<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/assets/mail.svg" />](mihocsa48@gmail.com)
+[<img align="left" alt="linkedin profile" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/assets/linkedin.svg" />][linkedin]
+[<img align="left" alt="twitter profile" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/assets/twitter.svg" />][twitter]
+[<img align="left" alt="portfolio website" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/assets/website.svg" />][website]
 
 </div>
 <br>
 
 <h3 >Languages and Tools:</h3>
 
-  <img align="left" alt="html" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/html.svg" />
-  <img align="left" alt="css" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/css.svg" />
-  <img align="left" alt="javascript" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/js.svg" />
-  <img align="left" alt="sass" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/sass.svg" />
-  <img align="left" alt="bootstrap" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/bootstrap.svg" />
-  <img align="left" alt="node js" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/node.svg" />
-  <img align="left" alt="react" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/react.svg" />
-  <img align="left" alt="jest" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/jest.svg" />
-  <img align="left" alt="git" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/git.svg" />
-  <img align="left" alt="mongo db" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/mongodb.svg" />
-  <img align="left" alt="amazon web services" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/aws.svg" />
-  <img align="left" alt="npm package manager" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/npm.svg" />
-  <img align="left" alt="visual studio code" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/vscode.svg" />
+  <img align="left" alt="html" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/assets/html.svg" />
+  <img align="left" alt="css" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/assets/css.svg" />
+  <img align="left" alt="javascript" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/assets/js.svg" />
+  <img align="left" alt="sass" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/assets/sass.svg" />
+  <img align="left" alt="bootstrap" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/assets/bootstrap.svg" />
+  <img align="left" alt="node js" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/assets/node.svg" />
+  <img align="left" alt="react" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/assets/react.svg" />
+  <img align="left" alt="jest" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/assets/jest.svg" />
+  <img align="left" alt="git" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/assets/git.svg" />
+  <img align="left" alt="mongo db" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/assets/mongodb.svg" />
+  <img align="left" alt="amazon web services" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/assets/aws.svg" />
+  <img align="left" alt="npm package manager" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/assets/npm.svg" />
+  <img align="left" alt="visual studio code" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/assets/vscode.svg" />
 <br>
 <h3 align="left">Stats:</h3>
 
