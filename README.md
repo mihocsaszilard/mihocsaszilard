@@ -12,9 +12,9 @@
 
 ### 📫 Connect with me: 
 
- [<img align="right" alt="send me an email" width="22px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/mail.svg" />](mihocsa48@gmail.com)  [<img align="right" alt="linkedin profile" width="22px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/linkedin.svg" />](https://www.linkedin.com/in/mihocsaszilard/)  
- [<img align="right" alt="twitter profile" width="22px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/twitter.svg" />](https://twitter.com/MihocsaS)
- [<img align="right" alt="portfolio website" width="22px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/website.svg" />](https://mihocsaszilard.github.io/Portfolio-Website-CF/)
+ [<img align="left" alt="send me an email" width="22px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/mail.svg" />](mihocsa48@gmail.com)  [<img align="left" alt="linkedin profile" width="22px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/linkedin.svg" />](https://www.linkedin.com/in/mihocsaszilard/)  
+ [<img align="left" alt="twitter profile" width="22px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/twitter.svg" />](https://twitter.com/MihocsaS)
+ [<img align="left" alt="portfolio website" width="22px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/website.svg" />](https://mihocsaszilard.github.io/Portfolio-Website-CF/)
 
 <!---
 mihocsaszilard/mihocsaszilard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
