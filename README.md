@@ -20,7 +20,7 @@
 
 <h3>Languages and Tools:</h3>
 
-<div align="center>
+<div align="center">
 
 <img align="left" alt="html" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/html.svg" />
 <img align="left" alt="css" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/css.svg" />
@@ -36,7 +36,7 @@
 <img align="left" alt="npm package manager" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/npm.svg" />
 <img align="left" alt="visual studio code" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/vscode.svg" />
 
-## </div>
+ </div>
 
 ### Stats
 
