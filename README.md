@@ -34,6 +34,11 @@
 <img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/npm.svg" />
 <img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/vscode.svg" />
 
+---
+
+### Stats
+
+<img align="left" alt="mihocsaszilard's github stats" src="https://github-readme-stats.vercel.app/api/pin/?username=mihocsaszilard&repo=github-readme-stats" />
 <!---
 mihocsaszilard/mihocsaszilard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
