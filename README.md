@@ -13,22 +13,22 @@
 
 ### 📫 Connect with me:
 
-[<img align="left" alt="send me an email" width="22px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/mail.svg" />](mihocsa48@gmail.com)
-[<img align="left" alt="linkedin profile" width="22px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/linkedin.svg" />][linkedin]
-[<img align="left" alt="twitter profile" width="22px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/twitter.svg" />][twitter]
-[<img align="left" alt="portfolio website" width="22px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/website.svg" />][wensite]
+[<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/mail.svg" />](mihocsa48@gmail.com)
+[<img align="left" alt="linkedin profile" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/linkedin.svg" />][linkedin]
+[<img align="left" alt="twitter profile" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/twitter.svg" />][twitter]
+[<img align="left" alt="portfolio website" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/website.svg" />][wensite]
 
 ### Languages and Tools:
 
-[<img align="left" alt="send me an email" width="22px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/html.svg" />]
-[<img align="left" alt="send me an email" width="22px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/css.svg" />]
-[<img align="left" alt="send me an email" width="22px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/js.svg" />]
-[<img align="left" alt="send me an email" width="22px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/sass.svg" />]
-[<img align="left" alt="send me an email" width="22px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/node.svg" />]
-[<img align="left" alt="send me an email" width="22px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/react.svg" />]
-[<img align="left" alt="send me an email" width="22px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/git.svg" />]
-[<img align="left" alt="send me an email" width="22px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/mongodb.svg" />]
-[<img align="left" alt="send me an email" width="22px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/vscode.svg" />]
+[<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/html.svg" />]
+[<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/css.svg" />]
+[<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/js.svg" />]
+[<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/sass.svg" />]
+[<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/node.svg" />]
+[<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/react.svg" />]
+[<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/git.svg" />]
+[<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/mongodb.svg" />]
+[<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/vscode.svg" />]
 
 <!---
 mihocsaszilard/mihocsaszilard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
