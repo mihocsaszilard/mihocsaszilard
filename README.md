@@ -18,7 +18,7 @@
 [<img align="left" alt="twitter profile" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/twitter.svg" />][twitter]
 [<img align="left" alt="portfolio website" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/website.svg" />][website]
 
-<h3>Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
 <div align="center">
 
