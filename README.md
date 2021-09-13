@@ -14,10 +14,12 @@
 <h3>📫 Connect with me:</h3>
 
 <div align="center">
+
 [<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/mail.svg" />](mihocsa48@gmail.com)
 [<img align="left" alt="linkedin profile" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/linkedin.svg" />][linkedin]
 [<img align="left" alt="twitter profile" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/twitter.svg" />][twitter]
 [<img align="left" alt="portfolio website" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/website.svg" />][website]
+
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
