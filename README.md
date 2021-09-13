@@ -24,8 +24,10 @@
 <img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/css.svg" />
 <img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/js.svg" />
 <img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/sass.svg" />
+<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/bootstrap.svg" />
 <img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/node.svg" />
 <img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/react.svg" />
+<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/jest.svg" />
 <img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/git.svg" />
 <img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/mongodb.svg" />
 <img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/vscode.svg" />
