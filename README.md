@@ -38,7 +38,7 @@
 
 ### Stats
 
-<img align="left" alt="mihocsaszilard's github stats" src="https://github-readme-stats.vercel.app/api/pin/?username=mihocsaszilard&repo=github-readme-stats" />
+<img align="left" alt="mihocsaszilard's github stats" src="https://github-readme-stats.vercel.app/api/pin/?username=mihocsaszilard" />
 <!---
 mihocsaszilard/mihocsaszilard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
