@@ -24,7 +24,7 @@
 
 ---
 
-<h3 style="text-align:center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 
 <div align="center">
   <img align="left" alt="html" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/html.svg" />
