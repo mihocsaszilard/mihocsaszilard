@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://github.com/mihocsaszilard/mihocsaszilard/blob/main/github-readme-image-1000x505.png?raw=true)
+![](https://github.com/mihocsaszilard/mihocsaszilard/blob/main/assets/github-readme-image-1000x505.png?raw=true)
 
 # I'm a Husband, a Developer and soon I'll be a father!
 
