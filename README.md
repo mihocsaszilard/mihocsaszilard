@@ -38,8 +38,8 @@
 
 ### Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihocsaszilard&hide=stars,issues,contribs&show_icons=true&theme=dark&hide_border&card_width=200)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihocsaszilard&layout=compact&theme=dark&card_width=200)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihocsaszilard&hide=stars,issues,contribs&show_icons=true&theme=dark&hide_border&card_heigth=200)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihocsaszilard&layout=compact&theme=dark&card_heigth=200)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 mihocsaszilard/mihocsaszilard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
