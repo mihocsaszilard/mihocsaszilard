@@ -30,6 +30,8 @@
 <img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/jest.svg" />
 <img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/git.svg" />
 <img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/mongodb.svg" />
+<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/aws.svg" />
+<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/npm.svg" />
 <img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/vscode.svg" />
 
 <!---
