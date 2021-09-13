@@ -20,15 +20,15 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/html.svg" />]
-[<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/css.svg" />]
-[<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/js.svg" />]
-[<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/sass.svg" />]
-[<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/node.svg" />]
-[<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/react.svg" />]
-[<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/git.svg" />]
-[<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/mongodb.svg" />]
-[<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/vscode.svg" />]
+<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/html.svg" />
+<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/css.svg" />
+<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/js.svg" />
+<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/sass.svg" />
+<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/node.svg" />
+<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/react.svg" />
+<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/git.svg" />
+<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/mongodb.svg" />
+<img align="left" alt="send me an email" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/vscode.svg" />
 
 <!---
 mihocsaszilard/mihocsaszilard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
