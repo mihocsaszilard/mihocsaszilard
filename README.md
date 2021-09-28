@@ -41,13 +41,13 @@
 <br>
 <h3></h3>
 
-<div align="center">
+<div >
 
 [![Szilard's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihocsaszilard&hide=stars,contribs&show_icons=true&theme=dark&hide_border)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
-<div align="center">
+<div >
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihocsaszilard&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
