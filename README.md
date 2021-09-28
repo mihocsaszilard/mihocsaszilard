@@ -47,7 +47,7 @@
 
 </div>
 
-<div >
+<div width="500px">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihocsaszilard&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
