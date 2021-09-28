@@ -21,3 +21,4 @@ jobs:
           SHOW_OS: false
           SHOW_LANGUAGE: false
           SHOW_PROFILE_VIEWS: false
+          SHOW_PROJECTS: false
