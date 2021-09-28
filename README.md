@@ -43,7 +43,7 @@
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihocsaszilard&hide=stars,contribs&show_icons=true&theme=dark&hide_border)](https://github.com/anuraghazra/github-readme-stats)
+[![Szilard's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihocsaszilard&hide=stars,contribs&show_icons=true&theme=dark&hide_border)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
