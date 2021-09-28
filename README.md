@@ -54,6 +54,82 @@
 </div>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-506823%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 1,018 Contributions in the Year 2021
+ > 
+> 📦 115.5 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 31 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    111 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.09% 
+🌆 Daytime    317 commits    ███████████░░░░░░░░░░░░░░   45.94% 
+🌃 Evening    262 commits    █████████░░░░░░░░░░░░░░░░   37.97% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       184 commits    ██████░░░░░░░░░░░░░░░░░░░   26.67% 
+Tuesday      126 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.26% 
+Wednesday    89 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.9% 
+Thursday     153 commits    █████░░░░░░░░░░░░░░░░░░░░   22.17% 
+Friday       57 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.26% 
+Saturday     39 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.65% 
+Sunday       42 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.09%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               9 repos             ███████░░░░░░░░░░░░░░░░░░   31.03% 
+CSS                      7 repos             ██████░░░░░░░░░░░░░░░░░░░   24.14% 
+TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.24% 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
+C++                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/mihocsaszilard/mihocsaszilard/main/charts/bar_graph.png) 
+
+
+ Last Updated on 28/09/2021
 <!--END_SECTION:waka-->
 
 <!---
