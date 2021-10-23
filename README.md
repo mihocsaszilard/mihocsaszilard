@@ -33,6 +33,8 @@
   <img align="left" alt="node js" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/assets/node.svg" />
   <img align="left" alt="react" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/assets/react.svg" />
   <img align="left" alt="jest" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/assets/jest.svg" />
+  <img align="left" alt="angular" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/assets/angular.svg" />
+  <img align="left" alt="jest" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/assets/material.png" />
   <img align="left" alt="git" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/assets/git.svg" />
   <img align="left" alt="mongo db" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/assets/mongodb.svg" />
   <img align="left" alt="amazon web services" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/assets/aws.svg" />
@@ -42,6 +44,7 @@
 <h3></h3>
 
 <div >
+<br>
 
 <!-- [![Szilard's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihocsaszilard&hide=stars,contribs&show_icons=true&theme=dark&hide_border)](https://github.com/anuraghazra/github-readme-stats)
 
