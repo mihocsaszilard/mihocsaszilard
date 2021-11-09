@@ -2,7 +2,7 @@
 
 ![](https://github.com/mihocsaszilard/mihocsaszilard/blob/main/assets/github-readme-image-1000x505.png?raw=true)
 
-# I'm a Husband, a Developer and father!
+# I'm a Husband, a Developer and fresh Father!
 
 </div>
 
