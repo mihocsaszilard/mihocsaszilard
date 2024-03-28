@@ -42,6 +42,7 @@
   <img align="left" alt="amazon web services" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/assets/aws.svg" />
   <img align="left" alt="npm package manager" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/assets/npm.svg" />
   <img align="left" alt="visual studio code" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/assets/vscode.svg" />
+  <img align="left" alt="visual studio" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/assets/visual-studio.svg" />
 <br>
 <h3></h3>
 
