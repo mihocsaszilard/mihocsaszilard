@@ -28,6 +28,8 @@
   <img align="left" alt="html" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/assets/html.svg" />
   <img align="left" alt="css" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/assets/css.svg" />
   <img align="left" alt="javascript" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/assets/js.svg" />
+  <img align="left" alt="c sharp" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/assets/c--4.svg" />
+  <img align="left" alt="dotnet" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/assets/dotnet-horizontal.svg" />
   <img align="left" alt="sass" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/assets/sass.svg" />
   <img align="left" alt="bootstrap" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/assets/bootstrap.svg" />
   <img align="left" alt="node js" width="25px" src="https://github.com/mihocsaszilard/mihocsaszilard/blob/main/assets/node.svg" />
