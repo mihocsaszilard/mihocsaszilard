@@ -6,7 +6,7 @@
 
 </div>
 
-- 💻 I’m currently working as Angular development and learning C#/.NET.
+- 💻 I’m currently working as Angular developer and learning C#/.NET meanwhile.
 - 🔌 I’m looking to collaborate with new people on new projects.
 - :test_tube: I have a background in development, not in web but in technological development in pharma industry.
 - 💯 Fun fact: I love to ride my motorcycle and build Lego.
