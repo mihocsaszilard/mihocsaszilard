@@ -2,11 +2,11 @@
 
 ![](https://github.com/mihocsaszilard/mihocsaszilard/blob/main/assets/github-readme-image-1000x505.png?raw=true)
 
-# I'm a Husband, a Developer and a fresh Father!
+# I'm a Husband, a Developer and a ~~fresh~~ Father!
 
 </div>
 
-- 💻 I’m currently learning full stack web development and everything related.
+- 💻 I’m currently working as Angular development and learning C#/.NET.
 - 🔌 I’m looking to collaborate with new people on new projects.
 - :test_tube: I have a background in development, not in web but in technological development in pharma industry.
 - 💯 Fun fact: I love to ride my motorcycle and build Lego.
