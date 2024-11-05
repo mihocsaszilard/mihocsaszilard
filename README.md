@@ -135,4 +135,4 @@ You can click the Preview link to take a look at your changes.
 
 [linkedin]: https://www.linkedin.com/in/mihocsaszilard/
 [twitter]: https://twitter.com/MihocsaS
-[website]: https://mihocsaszilard.github.io/Portfolio-Website-CF/
+[website]: https://www.emmess.dev/
